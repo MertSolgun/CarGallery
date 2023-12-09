@@ -5,7 +5,7 @@ const data = [
     year: 2020,
     type: "Sedan",
     image:
-      "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/bui0zzi9nzdxdghgwuvm",
+      "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/bui0zzi9nzdxdghgwuvm.jpg",
   },
   {
     make: "Ford",
